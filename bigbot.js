@@ -1,5 +1,5 @@
 
-const bot = new TelegramBot(token, { polling: true });
+const bot = new TelegramBot(890754426:AAEzIc6os-kpIyr2VP4PnL9c9MAaJjvHuZU, { polling: true });
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 const delay = require("delay");
